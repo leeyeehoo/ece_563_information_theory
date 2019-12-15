@@ -1,4 +1,4 @@
-# ece_563_information_theory
+# ece 563 information theory
 FALL2019
 
 
